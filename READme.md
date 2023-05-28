@@ -1,3 +1,3 @@
-this is a paypal project repo
-this is a test
-This another modification
+This is a paypal project 
+this is a payment application
+Making your money efficient!! 
